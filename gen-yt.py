@@ -3,7 +3,6 @@ import csv
 import tkinter as tk
 from tkinter import ttk
 from tkinter.filedialog import askopenfilename, asksaveasfilename
-from cairosvg import svg2png
 
 title_list = []
 svg_text = ""
